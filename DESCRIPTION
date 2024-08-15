@@ -3,7 +3,7 @@ Type: Package
 Title: trsct
 Version: 0.1.0
 Author: someone
-Maintainer: none
+Maintainer: someone <someone@example.com>
 Description: pulling data from pdf header
 Imports:
         stringr
