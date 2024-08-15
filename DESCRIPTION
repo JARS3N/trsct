@@ -1,0 +1,10 @@
+Package: trsct
+Type: Package
+Title: trsct
+Version: 0.1.0
+Author: someone
+Maintainer: none
+Description: pulling data from pdf header
+License: can't drive
+Encoding: UTF-8
+LazyData: true
